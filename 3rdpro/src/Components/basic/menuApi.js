@@ -29,7 +29,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "../images/zinger.jpg",
+      image: "../images/zinger.jpeg",
       name: "Zinger Burger",
       category: "lunch",
       price: "50₹",
@@ -38,7 +38,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "../images/pizza.jpg",
+      image: "images/pizza.jpeg",
       name: "Pizza",
       category: "evening",
       price: "80₹",
@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../images/nonvegthali.jpg",
+      image: "../images/Non-Veg dish.jpg",
       name: "Non-Veg dish",
       category: "dinner",
       price: "180₹",
@@ -83,22 +83,14 @@ const Menu = [
     },
     {
       id: 10,
-      image: "../images/samosa.jpg",
+      image: "../images/cofee.jpg",
       name: "Tea/ Coffee",
       category: "evening",
       price: "10₹",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
     },
-    {
-      id: 10,
-      image: "./images/maggi.jpg",
-      name: "Tea/ Coffee",
-      category: "Thapa",
-      price: "10₹",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
-    },
+    
   ];
   
   export default Menu;
